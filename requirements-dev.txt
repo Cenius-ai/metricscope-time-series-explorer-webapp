@@ -1,0 +1,2 @@
+# Optional maintainer tooling. NOT required to run, test or seed the app.
+playwright==1.65.1
