@@ -23,7 +23,7 @@ _Local clone? See [Quick start](#quick-start) below. cenius.ai is the zero-setup
 
 ## Architecture
 
-Full-stack app project, delivered as a complete runnable codebase (65 files). Top-level layout: `data/`, `pages/`, `scripts/`, `src/`, `static/`, `tests/`. The setup script (`install.sh`) installs runtime dependencies and loads a starter dataset so the app is immediately usable. Full setup details: [`INSTALL.md`](INSTALL.md).
+Full-stack app project, delivered as a complete runnable codebase (54 files). Top-level layout: `data/`, `pages/`, `scripts/`, `src/`, `static/`, `tests/`. The setup script (`install.sh`) installs runtime dependencies and loads a starter dataset so the app is immediately usable. Full setup details: [`INSTALL.md`](INSTALL.md).
 
 ## Features
 
